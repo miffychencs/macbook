@@ -1,10 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
-
-/* html {
-  
-} */
-
 body {
   font-family: "Roboto", monospace;
   background: rgba(0, 0, 0, 0) radial-gradient(circle, #fff 20%, #999) repeat scroll 0 0;
