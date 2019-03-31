@@ -1,15 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+
 /* html {
   
 } */
 
 body {
+  font-family: "Roboto", monospace;
   background: rgba(0, 0, 0, 0) radial-gradient(circle, #fff 20%, #999) repeat scroll 0 0;
 }
 
 .macbook {
   padding: 4% 6%;
   margin: 0 auto;
-  max-width: 1000px;
+  max-width: 900px;
 }
 
 .screen {
@@ -100,7 +104,7 @@ body {
 /* Screenshot Hover Scroll Additions */
 
 .macbook .viewport {
-  transition: background-position 3s ease;
+  transition: background-position 4s ease;
   background-position: 0 0;
   background-size: 100% auto;
   overflow: hidden;
